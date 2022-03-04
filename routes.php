@@ -11,3 +11,4 @@ if (isset($_GET['page'])) {
     }
 } else {
     include "pages/home.php";
+}
